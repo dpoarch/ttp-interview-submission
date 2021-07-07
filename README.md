@@ -23,4 +23,4 @@
 
 * Given more time, what improvements to the existing codebase would you make? 
 
-Answer: improvements to make by adding a passport for secure api and adding ajax for no page refresh. also updating the laravel project 4.2 to latest version
+Answer: Adding a passport for secure api and adding ajax for page load without refresh.  Also updating the laravel project 4.2 to latest version.
