@@ -34,7 +34,7 @@ class WidgetController extends BaseController
 				$widget->save();
 			   return View::make('widgets.index')->with("success", "Widget <i>".$name."</i> has been saved successfully");
 		   	}else{
-		   		return View::make('widgets.index')->with("error", "Name record ".$name." already exist!");
+		   		return View::make('widgets.index')->with("error", "Name record ".$name." already exists!");
 		   	}
 		}else{
 			return View::make('widgets.index')->withErrors($validator);
