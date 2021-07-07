@@ -23,4 +23,4 @@
 
 * Given more time, what improvements to the existing codebase would you make? 
 
-Answer: Adding a passport for secure API, adding AJAX for page load without refresh, and polishing the UI as well as utilization of JS front-end library/framework such as React.  Also updating the Laravel project 4.2 to latest version.
+Answer: Adding a passport for secure API, adding AJAX for page load without refresh, and polishing the UI as well as utilization of a modern JS front-end library/framework such as React.  Also updating the Laravel project 4.2 to latest version.
