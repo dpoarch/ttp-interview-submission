@@ -13,8 +13,6 @@
 
 # Project URL
 
-Note: you can create additional routes + urls to support the UI if needed.
-
 ### GET:http://localhost:8000/widgets
 
 ### GET:http://localhost:8000/api/widgets

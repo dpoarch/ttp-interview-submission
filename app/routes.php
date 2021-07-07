@@ -24,4 +24,4 @@ Route::post('/widgets', 'WidgetController@store');
 
 Route::get('/api/widgets', 'WidgetController@view');
 
-Route::get('/api/widgets/{id}', 'WidgetController@delete');
+Route::get('/api/widget/{id}', 'WidgetController@delete');
