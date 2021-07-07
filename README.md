@@ -6,8 +6,8 @@
 
 # Installation
 1. [Clone this project](https://github.com/dpoarch/ttp-interview-submission.git)
-2. **Important** Make an initial commit with the unzipped files.
-3. From the command line run 'composer install'.
+2. **Important** -- Make an initial commit with the unzipped files.
+3. From the command line, run 'composer install'.
 4. Start the local server `php artisan serve` and open http://localhost:8000/widgets in your browser.
 
 
